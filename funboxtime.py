@@ -48,22 +48,15 @@ def baliho():
 		name = a['name']
 		n.append(a['name'])
 
-		print R + '_     _'.center(44)
-		print "o' \.=./ `o".center(44)
-		print '(o o)'.center(44)
-		print 'ooO--(_)--Ooo'.center(44)
+
 		print ' ' + W
 		print ('[*] ' + name + ' [*]').center(44)
 		print ' '
 
 	except (KeyError,IOError):
-		print R + '_     _'.center(44)
-		print "o' \.=./ `o".center(44)
-		print '(o o)'.center(44)
-		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('O S I F').center(44)
-		print (W + '     [' + G +'Open Source Information Facebook'+ W + ']')
+		print ('FunBoxTime').center(44)
+		print (W + '     [' + G +'FunBoxTime.blogspot.com'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
@@ -74,13 +67,13 @@ def show_program():
  ------------------------------------------------------
 
     Author     Debby Anggraini 'CiKu370'
-    Name       OSIF 'Open Source Information Facebook'
+    Name       Mr. Y 'FunBoxTime.blogspot.com'
     CodeName   Mr. Yandra
     version    full version
     Date       16/05/2018 09:35:12
     Team       Blackhole Security
     Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Telegram   ================
 
 * if you find any errors or problems , please contact
   author
